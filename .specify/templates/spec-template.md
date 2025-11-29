@@ -4,6 +4,11 @@
 **Created**: [DATE]  
 **Status**: Draft  
 **Input**: User description: "$ARGUMENTS"
+**Constitution Alignment**: Explain how simplicity (temporary viewer, static JSON, no auth/complex
+state), accessibility (layout badges, focus trap, keyboard navigation, ARIA labels, mobile
+responsiveness), performance (lazy-load, light assets), download fidelity (filenames preserved), and
+required tests (unit for gallery utilities and modal flows; smoke/E2E for record open and downloads)
+are satisfied.
 
 ## User Scenarios & Testing *(mandatory)*
 
@@ -67,20 +72,19 @@
 
 ### Edge Cases
 
-<!--
-  ACTION REQUIRED: The content in this section represents placeholders.
-  Fill them out with the right edge cases.
--->
-
-- What happens when [boundary condition]?
-- How does system handle [error scenario]?
+- What happens when the static JSON source is missing, empty, or malformed?
+- How are filenames preserved when single or multiple items are downloaded?
+- How does the modal focus trap and keyboard navigation behave in error or cancel flows?
+- When media is lazy-loaded, how do nested groups or slow networks affect rendering?
+- How does the layout respond on the smallest supported viewport?
 
 ## Requirements *(mandatory)*
 
-<!--
-  ACTION REQUIRED: The content in this section represents placeholders.
-  Fill them out with the right functional requirements.
--->
+Ensure requirements cover: static JSON as the only data source; consistent category/record layout with
+single vs multiple badges; accessible modal (focus trap, keyboard navigation, ARIA labels); responsive
+design; lazy-loading and lightweight assets; filename preservation for single and batched downloads;
+unit coverage for gallery utilities and modal open/close/download flows plus smoke/E2E for record open
+and downloads.
 
 ### Functional Requirements
 
