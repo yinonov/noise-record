@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "title": "Nighttime Noise",
+      "description": "Reports collected after 10 PM",
+      "records": [
+        {
+          "id": "rec-1",
+          "categoryId": "cat-1",
+          "title": "Alley music",
+          "occurredAt": "2025-11-20T23:15:00Z",
+          "media": [
+            {
+              "id": "m1",
+              "type": "video",
+              "title": "Clip 1",
+              "source": "/media/video/clip1.mp4",
+              "durationSeconds": 12,
+              "originalFilename": "clip1.mp4"
+            },
+            {
+              "id": "m2",
+              "type": "image",
+              "title": "Still frame",
+              "source": "/media/image/frame1.jpg",
+              "originalFilename": "frame1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "rec-2",
+          "categoryId": "cat-1",
+          "title": "Construction noise",
+          "occurredAt": "2025-11-21T07:05:00Z",
+          "media": [
+            {
+              "id": "m3",
+              "type": "image",
+              "title": "Photo",
+              "source": "/media/image/photo1.jpg",
+              "originalFilename": "photo1.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

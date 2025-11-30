@@ -29,10 +29,10 @@ description: "Task list for Noise Evidence Viewer implementation"
 
 **Purpose**: Project initialization and basic structure
 
-- [ ] T001 Initialize project with Vite + TypeScript and lint/format/type-check configs in package.json
-- [ ] T002 Add base directories (`src/components`, `src/data`, `src/styles`, `src/utils`, `tests/unit`, `tests/e2e`)
-- [ ] T003 Configure ESLint + Prettier + TypeScript settings (`.eslintrc`, `.prettierrc`, `tsconfig.json`)
-- [ ] T004 Add npm scripts for dev/build/lint/type-check/unit/e2e in package.json
+- [x] T001 Initialize project with Vite + TypeScript and lint/format/type-check configs in package.json
+- [x] T002 Add base directories (`src/components`, `src/data`, `src/styles`, `src/utils`, `tests/unit`, `tests/e2e`)
+- [x] T003 Configure ESLint + Prettier + TypeScript settings (`.eslintrc`, `.prettierrc`, `tsconfig.json`)
+- [x] T004 Add npm scripts for dev/build/lint/type-check/unit/e2e in package.json
 
 ---
 
@@ -40,13 +40,13 @@ description: "Task list for Noise Evidence Viewer implementation"
 
 **Purpose**: Core infrastructure that MUST be complete before ANY user story can be implemented
 
-- [ ] T005 Validate static JSON schema against `contracts/data-schema.json` and add sample data to `src/data/evidence.json`
-- [ ] T006 [P] Implement data loader utility for static JSON with graceful empty/malformed handling in `src/utils/dataLoader.ts`
-- [ ] T007 [P] Scaffold shared styles/tokens for layout, badges, modal spacing in `src/styles/tokens.css`
-- [ ] T008 [P] Implement accessibility helpers (focus trap, aria labeling helpers, keyboard handlers) in `src/utils/a11y.ts`
-- [ ] T009 [P] Implement download helper for single and sequential multi-download preserving filenames in `src/utils/downloads.ts`
-- [ ] T010 Set up Vitest config and first failing test harness in `tests/unit/setup.ts`
-- [ ] T011 Set up Playwright config and first failing smoke skeleton in `tests/e2e/setup.ts`
+- [x] T005 Validate static JSON schema against `contracts/data-schema.json` and add sample data to `src/data/evidence.json`
+- [x] T006 [P] Implement data loader utility for static JSON with graceful empty/malformed handling in `src/utils/dataLoader.ts`
+- [x] T007 [P] Scaffold shared styles/tokens for layout, badges, modal spacing in `src/styles/tokens.css`
+- [x] T008 [P] Implement accessibility helpers (focus trap, aria labeling helpers, keyboard handlers) in `src/utils/a11y.ts`
+- [x] T009 [P] Implement download helper for single and sequential multi-download preserving filenames in `src/utils/downloads.ts`
+- [x] T010 Set up Vitest config and first failing test harness in `tests/unit/setup.ts`
+- [x] T011 Set up Playwright config and first failing smoke skeleton in `tests/e2e/setup.ts`
 
 **Checkpoint**: Foundation ready - user story implementation can now begin in parallel
 
@@ -62,15 +62,15 @@ description: "Task list for Noise Evidence Viewer implementation"
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T012 [US1] Unit tests for data loader and badge derivation in `tests/unit/list.spec.ts`
-- [ ] T032 [US1] Unit tests for date formatting, title truncation/tooltip, and 360px layout fit in `tests/unit/formatting.spec.ts`
+- [x] T012 [US1] Unit tests for data loader and badge derivation in `tests/unit/list.spec.ts`
+- [x] T032 [US1] Unit tests for date formatting, title truncation/tooltip, and 360px layout fit in `tests/unit/formatting.spec.ts`
 
 ### Implementation for User Story 1
 
-- [ ] T013 [P] [US1] Implement data parsing and badge derivation in `src/utils/gallery.ts`
-- [ ] T014 [P] [US1] Build category/record list component with date/title/badges and empty state in `src/components/List.tsx`
-- [ ] T015 [US1] Wire list component to static JSON loader in `src/components/App.tsx`
-- [ ] T033 [P] [US1] Add date formatter and title truncation with full-value tooltip in `src/utils/gallery.ts` and `src/components/List.tsx`
+- [x] T013 [P] [US1] Implement data parsing and badge derivation in `src/utils/gallery.ts`
+- [x] T014 [P] [US1] Build category/record list component with date/title/badges and empty state in `src/components/List.tsx`
+- [x] T015 [US1] Wire list component to static JSON loader in `src/components/App.tsx`
+- [x] T033 [P] [US1] Add date formatter and title truncation with full-value tooltip in `src/utils/gallery.ts` and `src/components/List.tsx`
 
 **Checkpoint**: User Story 1 should be fully functional and testable independently
 
@@ -86,17 +86,17 @@ description: "Task list for Noise Evidence Viewer implementation"
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T016 [US2] Unit tests for modal open/close state, focus trap, keyboard navigation in `tests/unit/modal.spec.ts`
-- [ ] T017 [US2] Unit tests for media navigation and lazy-load triggers in `tests/unit/mediaNavigation.spec.ts`
+- [x] T016 [US2] Unit tests for modal open/close state, focus trap, keyboard navigation in `tests/unit/modal.spec.ts`
+- [x] T017 [US2] Unit tests for media navigation and lazy-load triggers in `tests/unit/mediaNavigation.spec.ts`
 - [ ] T034 [US2] Visual/regression checks for responsive layout at 360px and touch targets in `tests/unit/responsive.spec.ts`
 
 ### Implementation for User Story 2
 
-- [ ] T018 [P] [US2] Implement modal component with focus trap, ARIA labels, keyboard handlers in `src/components/Modal.tsx`
-- [ ] T019 [P] [US2] Implement media viewer (image/video) with lazy-load and basic video controls in `src/components/MediaViewer.tsx`
-- [ ] T020 [US2] Integrate modal trigger from list and restore focus on close in `src/components/App.tsx`
-- [ ] T021 [US2] Ensure nested render performance (avoid unnecessary re-renders) in `src/components/Modal.tsx`
-- [ ] T035 [P] [US2] Add responsive breakpoints and touch-friendly targets in `src/styles/tokens.css` and component styles
+- [x] T018 [P] [US2] Implement modal component with focus trap, ARIA labels, keyboard handlers in `src/components/Modal.tsx`
+- [x] T019 [P] [US2] Implement media viewer (image/video) with lazy-load and basic video controls in `src/components/MediaViewer.tsx`
+- [x] T020 [US2] Integrate modal trigger from list and restore focus on close in `src/components/App.tsx`
+- [x] T021 [US2] Ensure nested render performance (avoid unnecessary re-renders) in `src/components/Modal.tsx`
+- [x] T035 [P] [US2] Add responsive breakpoints and touch-friendly targets in `src/styles/tokens.css` and component styles
 
 **Checkpoint**: User Story 2 should be fully functional and testable independently
 
@@ -113,13 +113,14 @@ description: "Task list for Noise Evidence Viewer implementation"
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
 - [ ] T022 [US3] Unit tests for single and sequential multi-download helpers in `tests/unit/downloads.spec.ts`
-- [ ] T023 [US3] Smoke/E2E for record open and single/multi sequential downloads with filename checks in `tests/e2e/downloads.spec.ts`
+- [x] T022 [US3] Unit tests for single and sequential multi-download helpers in `tests/unit/downloads.spec.ts`
+- [x] T023 [US3] Smoke/E2E for record open and single/multi sequential downloads with filename checks in `tests/e2e/downloads.spec.ts`
 
 ### Implementation for User Story 3
 
-- [ ] T024 [P] [US3] Connect single download actions from list and modal using helper in `src/components/List.tsx` and `src/components/Modal.tsx`
-- [ ] T025 [US3] Implement multi-download trigger (sequential) with user feedback in `src/components/Modal.tsx`
-- [ ] T026 [US3] Ensure error handling and messaging for failed downloads in `src/components/Modal.tsx`
+- [x] T024 [P] [US3] Connect single download actions from list and modal using helper in `src/components/List.tsx` and `src/components/Modal.tsx`
+- [x] T025 [US3] Implement multi-download trigger (sequential) with user feedback in `src/components/Modal.tsx`
+- [x] T026 [US3] Ensure error handling and messaging for failed downloads in `src/components/Modal.tsx`
 
 **Checkpoint**: User Story 3 should be fully functional and testable independently
 
@@ -129,11 +130,11 @@ description: "Task list for Noise Evidence Viewer implementation"
 
 **Purpose**: Improvements that affect multiple user stories
 
-- [ ] T027 [P] Documentation updates (spec/plan/quickstart) with final paths and commands in `specs/001-noise-evidence-viewer/`
-- [ ] T028 Code cleanup and dependency audit to confirm minimal deps in `package.json`
-- [ ] T029 Performance pass: verify payload budget, lazy-load behavior, and render profiling in `src/components/` (include 360px viewport check)
-- [ ] T030 [P] Accessibility audit (labels, focus order, keyboard support) in `src/components/`
-- [ ] T031 Run full test suite (lint, type-check, unit, e2e) and fix failures
+- [x] T027 [P] Documentation updates (spec/plan/quickstart) with final paths and commands in `specs/001-noise-evidence-viewer/`
+- [x] T028 Code cleanup and dependency audit to confirm minimal deps in `package.json`
+- [x] T029 Performance pass: verify payload budget, lazy-load behavior, and render profiling in `src/components/` (include 360px viewport check)
+- [x] T030 [P] Accessibility audit (labels, focus order, keyboard support) in `src/components/`
+- [x] T031 Run full test suite (lint, type-check, unit, e2e) and fix failures
 
 ---
 
