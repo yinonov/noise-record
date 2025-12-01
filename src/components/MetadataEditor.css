@@ -1,0 +1,107 @@
+
+.metadata-editor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--surface-1);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+}
+
+.editor-header {
+  padding: var(--size-3) var(--size-5);
+  border-bottom: 1px solid var(--surface-2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--surface-1);
+}
+
+.editor-header h2 {
+  margin: 0;
+  font-size: var(--font-size-4);
+}
+
+.editor-header .actions {
+  display: flex;
+  gap: var(--size-3);
+}
+
+.editor-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--size-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-6);
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.editor-category {
+  background: var(--surface-2);
+  border-radius: var(--radius-3);
+  padding: var(--size-4);
+}
+
+.category-title-input {
+  font-size: var(--font-size-4);
+  font-weight: bold;
+  width: 100%;
+  padding: var(--size-2);
+  margin-bottom: var(--size-4);
+  background: var(--surface-1);
+  border: 1px solid var(--surface-3);
+  border-radius: var(--radius-2);
+  color: var(--text-1);
+}
+
+.editor-records {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-3);
+}
+
+.editor-record {
+  display: flex;
+  align-items: center;
+  gap: var(--size-3);
+  padding: var(--size-3);
+  background: var(--surface-1);
+  border-radius: var(--radius-2);
+  border: 1px solid var(--surface-3);
+}
+
+.record-inputs {
+  display: flex;
+  flex: 1;
+  gap: var(--size-3);
+}
+
+.record-date-input {
+  width: 150px;
+  padding: var(--size-2);
+  border: 1px solid var(--surface-3);
+  border-radius: var(--radius-2);
+  background: var(--surface-1);
+  color: var(--text-1);
+}
+
+.record-title-input {
+  flex: 1;
+  padding: var(--size-2);
+  border: 1px solid var(--surface-3);
+  border-radius: var(--radius-2);
+  background: var(--surface-1);
+  color: var(--text-1);
+}
+
+.record-media-count {
+  font-size: var(--font-size-1);
+  color: var(--text-2);
+  white-space: nowrap;
+}

@@ -1,45 +1,1721 @@
 {
   "categories": [
     {
-      "id": "cat-1",
-      "title": "Nighttime Noise",
-      "description": "Reports collected after 10 PM",
+      "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+      "title": "דיבור רועש והפעלת מנועים",
+      "description": null,
       "records": [
         {
-          "id": "rec-1",
-          "categoryId": "cat-1",
-          "title": "Alley music",
-          "occurredAt": "2025-11-20T23:15:00Z",
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTAzLTA4LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "03-08-2025",
+          "occurredAt": "2025-08-03",
           "media": [
             {
-              "id": "m1",
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTAzLTA4LTIwMjUtSU1HXzIwNzYuTU9W",
               "type": "video",
-              "title": "Clip 1",
-              "source": "/media/video/clip1.mp4",
-              "durationSeconds": 12,
-              "originalFilename": "clip1.mp4"
+              "title": "IMG_2076.MOV",
+              "source": "error://too-large?name=IMG_2076.MOV",
+              "originalFilename": "IMG_2076.MOV"
             },
             {
-              "id": "m2",
-              "type": "image",
-              "title": "Still frame",
-              "source": "/media/image/frame1.jpg",
-              "originalFilename": "frame1.jpg"
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTAzLTA4LTIwMjUtSU1HXzIwNzcuTU9W",
+              "type": "video",
+              "title": "IMG_2077.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/03-08-2025/IMG_2077.MOV",
+              "originalFilename": "IMG_2077.MOV"
             }
           ]
         },
         {
-          "id": "rec-2",
-          "categoryId": "cat-1",
-          "title": "Construction noise",
-          "occurredAt": "2025-11-21T07:05:00Z",
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTA0LTA2LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "04-06-2025",
+          "occurredAt": "2025-06-04",
           "media": [
             {
-              "id": "m3",
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTA0LTA2LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA2MDVfMDhfMzJfNDAubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250605_08_32_40.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/04-06-2025/LocalRecord_20250605_08_32_40.mp4",
+              "originalFilename": "LocalRecord_20250605_08_32_40.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTEwLTA3LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "10-07-2025",
+          "occurredAt": "2025-07-10",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTEwLTA3LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA3MTBfMjNfMTNfMDcubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250710_23_13_07.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/10-07-2025/LocalRecord_20250710_23_13_07.mp4",
+              "originalFilename": "LocalRecord_20250710_23_13_07.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTEyLTA1LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "12-05-2025",
+          "occurredAt": "2025-05-12",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTEyLTA1LTIwMjUtSU1HXzE2NzguTU9W",
+              "type": "video",
+              "title": "IMG_1678.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/12-05-2025/IMG_1678.MOV",
+              "originalFilename": "IMG_1678.MOV"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTEyLTA1LTIwMjUtSU1HXzE2ODAuTU9W",
+              "type": "video",
+              "title": "IMG_1680.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/12-05-2025/IMG_1680.MOV",
+              "originalFilename": "IMG_1680.MOV"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTE3LTEwLTIwMjUg157Xm9eZ16jXqiDXldeU16TXotec16og15DXldek16DXldeiINeb15HXkyDXptee15XXkyDXnNeS15PXqCDXldec16TXqteXINeU15HXmdeqINeR16nXmdep15kg15HXoteo15Eg",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "מכירת והפעלת אופנוע כבד צמוד לגדר ולפתח הבית בשישי בערב",
+          "occurredAt": "2025-10-17",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTE3LTEwLTIwMjUg157Xm9eZ16jXqiDXldeU16TXotec16og15DXldek16DXldeiINeb15HXkyDXptee15XXkyDXnNeS15PXqCDXldec16TXqteXINeU15HXmdeqINeR16nXmdep15kg15HXoteo15EgLTE3NjA4MjYwNjcubXA0",
+              "type": "video",
+              "title": "1760826067.mp4",
+              "source": "error://too-large?name=1760826067.mp4",
+              "originalFilename": "1760826067.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTE3LTEwLTIwMjUg157Xm9eZ16jXqiDXldeU16TXotec16og15DXldek16DXldeiINeb15HXkyDXptee15XXkyDXnNeS15PXqCDXldec16TXqteXINeU15HXmdeqINeR16nXmdep15kg15HXoteo15EgLTE3NjA4MjYzMzFfMDEubW92",
+              "type": "video",
+              "title": "1760826331_01.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/17-10-2025_________________________________________________________/1760826331_01.mov",
+              "originalFilename": "1760826331_01.mov"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTE3LTEwLTIwMjUg157Xm9eZ16jXqiDXldeU16TXotec16og15DXldek16DXldeiINeb15HXkyDXptee15XXkyDXnNeS15PXqCDXldec16TXqteXINeU15HXmdeqINeR16nXmdep15kg15HXoteo15EgLTE3NjA4MjYzMzFfMDEubXA0",
+              "type": "video",
+              "title": "1760826331_01.mp4",
+              "source": "error://too-large?name=1760826331_01.mp4",
+              "originalFilename": "1760826331_01.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTE3LTEwLTIwMjUg157Xm9eZ16jXqiDXldeU16TXotec16og15DXldek16DXldeiINeb15HXkyDXptee15XXkyDXnNeS15PXqCDXldec16TXqteXINeU15HXmdeqINeR16nXmdep15kg15HXoteo15EgLUlNR18zMTQwLk1PVg==",
+              "type": "video",
+              "title": "IMG_3140.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/17-10-2025_________________________________________________________/IMG_3140.MOV",
+              "originalFilename": "IMG_3140.MOV"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "21-01-2025",
+          "occurredAt": "2025-01-21",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEyMS0yMTMyNDUubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-213245.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025/ERO-N7508HR_Camera_250121-213245.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-213245.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEyMS0yMTQ3MjAubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-214720.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025/ERO-N7508HR_Camera_250121-214720.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-214720.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEyMS0yMTQ4MDIubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-214802.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025/ERO-N7508HR_Camera_250121-214802.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-214802.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEyMS0yMjAyMDEubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-220201.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025/ERO-N7508HR_Camera_250121-220201.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-220201.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEyMS0yMjA3MTYubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-220716.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025/ERO-N7508HR_Camera_250121-220716.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-220716.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlA==",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "דיבור רועש לילה",
+          "occurredAt": "2025-01-21",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIxLTIxMzI0NS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-213245.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025________________/ERO-N7508HR_Camera_250121-213245.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-213245.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIxLTIxNDcyMC5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-214720.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025________________/ERO-N7508HR_Camera_250121-214720.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-214720.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIxLTIxNDgwMi5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-214802.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025________________/ERO-N7508HR_Camera_250121-214802.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-214802.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIxLTIyMDIwMS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-220201.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025________________/ERO-N7508HR_Camera_250121-220201.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-220201.mp4"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTAxLTIwMjUg15PXmdeR15XXqCDXqNeV16LXqSDXnNeZ15zXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIxLTIyMDcxNi5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250121-220716.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/21-01-2025________________/ERO-N7508HR_Camera_250121-220716.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250121-220716.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTEwLTIwMjUg157XmNeo15Mg15nXldee15kgLSDXlNeQ15XXpNeg15XXoiDXnteS15nXoiDXldeU15vXnNeRINee16nXqteV15zXnA==",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "מטרד יומי - האופנוע מגיע והכלב משתולל",
+          "occurredAt": "2025-10-21",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIxLTEwLTIwMjUg157XmNeo15Mg15nXldee15kgLSDXlNeQ15XXpNeg15XXoiDXnteS15nXoiDXldeU15vXnNeRINee16nXqteV15zXnC1JTUdfMzE1Ni5NT1Y=",
+              "type": "video",
+              "title": "IMG_3156.MOV",
+              "source": "error://too-large?name=IMG_3156.MOV",
+              "originalFilename": "IMG_3156.MOV"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIyLTA1LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "22-05-2025",
+          "occurredAt": "2025-05-22",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTIyLTA1LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA1MjJfMTJfNTRfMjkubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250522_12_54_29.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/22-05-2025/LocalRecord_20250522_12_54_29.mp4",
+              "originalFilename": "LocalRecord_20250522_12_54_29.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI0LTEwLTIwMjUg16nXmdeX15XXqiDXmNec16TXldefINeV15TXnNeZ15vXlCDXptee15XXk9eUINec15LXk9eoINeU15zXldeaINeV16nXldeR",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "שיחות טלפון והליכה צמודה לגדר הלוך ושוב",
+          "occurredAt": "2025-10-24",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI0LTEwLTIwMjUg16nXmdeX15XXqiDXmNec16TXldefINeV15TXnNeZ15vXlCDXptee15XXk9eUINec15LXk9eoINeU15zXldeaINeV16nXldeRLUlNR18zMTcyLk1PVg==",
+              "type": "video",
+              "title": "IMG_3172.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/24-10-2025________________________________________/IMG_3172.MOV",
+              "originalFilename": "IMG_3172.MOV"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI0LTEwLTIwMjUg16nXmdeX15XXqiDXmNec16TXldefINeV15TXnNeZ15vXlCDXptee15XXk9eUINec15LXk9eoINeU15zXldeaINeV16nXldeRLUlNR18zMTczLk1PVg==",
+              "type": "video",
+              "title": "IMG_3173.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/24-10-2025________________________________________/IMG_3173.MOV",
+              "originalFilename": "IMG_3173.MOV"
+            },
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI0LTEwLTIwMjUg16nXmdeX15XXqiDXmNec16TXldefINeV15TXnNeZ15vXlCDXptee15XXk9eUINec15LXk9eoINeU15zXldeaINeV16nXldeRLUlNR18zMTc0Lk1PVg==",
+              "type": "video",
+              "title": "IMG_3174.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/24-10-2025________________________________________/IMG_3174.MOV",
+              "originalFilename": "IMG_3174.MOV"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI1LTA1LTIwMjUg15TXpNei15zXqiDXkNeV16TXoNeV16LXmdedINeR16nXoteV16og15TXnteg15XXl9eU",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "הפעלת אופנועים בשעות המנוחה",
+          "occurredAt": "2025-05-25",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI1LTA1LTIwMjUg15TXpNei15zXqiDXkNeV16TXoNeV16LXmdedINeR16nXoteV16og15TXnteg15XXl9eULUxvY2FsUmVjb3JkXzIwMjUwNTI1XzE1XzU0XzEyLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250525_15_54_12.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/25-05-2025____________________________/LocalRecord_20250525_15_54_12.mp4",
+              "originalFilename": "LocalRecord_20250525_15_54_12.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI2LTA1LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "26-05-2025",
+          "occurredAt": "2025-05-26",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI2LTA1LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA1MjZfMTRfMTJfMjIubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250526_14_12_22.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/26-05-2025/LocalRecord_20250526_14_12_22.mp4",
+              "originalFilename": "LocalRecord_20250526_14_12_22.mp4"
+            }
+          ]
+        },
+        {
+          "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI3LTA1LTIwMjU=",
+          "categoryId": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmded",
+          "title": "27-05-2025",
+          "occurredAt": "2025-05-27",
+          "media": [
+            {
+              "id": "15PXmdeR15XXqCDXqNeV16LXqSDXldeU16TXotec16og157XoNeV16LXmdedLTI3LTA1LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA1MjdfMTlfMjNfMjQubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250527_19_23_24.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/________________________/27-05-2025/LocalRecord_20250527_19_23_24.mp4",
+              "originalFilename": "LocalRecord_20250527_19_23_24.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15TXlteg15fXlCDXldec15vXnNeV15o=",
+      "title": "הזנחה ולכלוך",
+      "description": null,
+      "records": [
+        {
+          "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNQ==",
+          "categoryId": "15TXlteg15fXlCDXldec15vXnNeV15o=",
+          "title": "09-10-2025",
+          "occurredAt": "2025-10-09",
+          "media": [
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA3OS5qcGVn",
               "type": "image",
-              "title": "Photo",
-              "source": "/media/image/photo1.jpg",
-              "originalFilename": "photo1.jpg"
+              "title": "IMG_3079.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3079.jpeg",
+              "originalFilename": "IMG_3079.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4MC5qcGVn",
+              "type": "image",
+              "title": "IMG_3080.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3080.jpeg",
+              "originalFilename": "IMG_3080.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4MS5qcGVn",
+              "type": "image",
+              "title": "IMG_3081.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3081.jpeg",
+              "originalFilename": "IMG_3081.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4Mi5qcGVn",
+              "type": "image",
+              "title": "IMG_3082.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3082.jpeg",
+              "originalFilename": "IMG_3082.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4My5qcGVn",
+              "type": "image",
+              "title": "IMG_3083.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3083.jpeg",
+              "originalFilename": "IMG_3083.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4NC5qcGVn",
+              "type": "image",
+              "title": "IMG_3084.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3084.jpeg",
+              "originalFilename": "IMG_3084.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4NS5qcGVn",
+              "type": "image",
+              "title": "IMG_3085.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3085.jpeg",
+              "originalFilename": "IMG_3085.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4Ni5qcGVn",
+              "type": "image",
+              "title": "IMG_3086.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3086.jpeg",
+              "originalFilename": "IMG_3086.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4Ny5qcGVn",
+              "type": "image",
+              "title": "IMG_3087.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3087.jpeg",
+              "originalFilename": "IMG_3087.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4OC5qcGVn",
+              "type": "image",
+              "title": "IMG_3088.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3088.jpeg",
+              "originalFilename": "IMG_3088.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMDktMTAtMjAyNS1JTUdfMzA4OS5qcGVn",
+              "type": "image",
+              "title": "IMG_3089.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/09-10-2025/IMG_3089.jpeg",
+              "originalFilename": "IMG_3089.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157Xntep",
+          "categoryId": "15TXlteg15fXlCDXldec15vXnNeV15o=",
+          "title": "צמחיה מוזנחת מוגזמת ממש",
+          "occurredAt": "2025-10-16",
+          "media": [
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTMwLk1PVg==",
+              "type": "video",
+              "title": "IMG_3130.MOV",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3130.MOV",
+              "originalFilename": "IMG_3130.MOV"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTMxLmpwZWc=",
+              "type": "image",
+              "title": "IMG_3131.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3131.jpeg",
+              "originalFilename": "IMG_3131.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTMyLmpwZWc=",
+              "type": "image",
+              "title": "IMG_3132.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3132.jpeg",
+              "originalFilename": "IMG_3132.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTMzLmpwZWc=",
+              "type": "image",
+              "title": "IMG_3133.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3133.jpeg",
+              "originalFilename": "IMG_3133.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM0LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3134.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3134.jpeg",
+              "originalFilename": "IMG_3134.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM1LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3135.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3135.jpeg",
+              "originalFilename": "IMG_3135.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM2LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3136.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3136.jpeg",
+              "originalFilename": "IMG_3136.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM3LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3137.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3137.jpeg",
+              "originalFilename": "IMG_3137.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM4LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3138.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3138.jpeg",
+              "originalFilename": "IMG_3138.jpeg"
+            },
+            {
+              "id": "15TXlteg15fXlCDXldec15vXnNeV15otMTYtMTAtMjAyNSDXptee15fXmdeUINee15XXlteg15fXqiDXnteV15LXltee16og157XntepLUlNR18zMTM5LmpwZWc=",
+              "type": "image",
+              "title": "IMG_3139.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/____________/16-10-2025________________________/IMG_3139.jpeg",
+              "originalFilename": "IMG_3139.jpeg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15fXoNeZ15Q=",
+      "title": "חניה",
+      "description": null,
+      "records": [
+        {
+          "id": "15fXoNeZ15Qt16TXoNeZ15Qg15zXoteZ16jXmdeZ15Q=",
+          "categoryId": "15fXoNeZ15Q=",
+          "title": "פניה לעירייה",
+          "occurredAt": "2025-12-01",
+          "media": [
+            {
+              "id": "15fXoNeZ15Qt16TXoNeZ15Qg15zXoteZ16jXmdeZ15QtZm9ybXMuaG9sb24ubXVuaS5pbF9tb2tlZC1wcm9maWxlX19jZWxscGhvbmU9MDU0NDA4NTA4NSZzZWNyZXQ9ODgzNyAoNikucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (6).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/____/____________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__6_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (6).png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15fXqNeZ15LXqiDXkdeg15nXlA==",
+      "title": "חריגת בניה",
+      "description": null,
+      "records": [
+        {
+          "id": "15fXqNeZ15LXqiDXkdeg15nXlC3XpNeg15nXlCDXnNek15nXp9eV15cg16LXnCDXlNeR16DXmdeU",
+          "categoryId": "15fXqNeZ15LXqiDXkdeg15nXlA==",
+          "title": "פניה לפיקוח על הבניה",
+          "occurredAt": "2025-12-01",
+          "media": [
+            {
+              "id": "15fXqNeZ15LXqiDXkdeg15nXlC3XpNeg15nXlCDXnNek15nXp9eV15cg16LXnCDXlNeR16DXmdeULVBIT1RPLTIwMjUtMDctMTAtMTMtNTktMDAuanBn",
+              "type": "image",
+              "title": "PHOTO-2025-07-10-13-59-00.jpg",
+              "source": "https://ik.imagekit.io/yinon/evidence/__________/____________________/PHOTO-2025-07-10-13-59-00.jpg",
+              "originalFilename": "PHOTO-2025-07-10-13-59-00.jpg"
+            },
+            {
+              "id": "15fXqNeZ15LXqiDXkdeg15nXlC3XpNeg15nXlCDXnNek15nXp9eV15cg16LXnCDXlNeR16DXmdeULWZvcm1zLmhvbG9uLm11bmkuaWxfbW9rZWQtcHJvZmlsZV9fY2VsbHBob25lPTA1NDQwODUwODUmc2VjcmV0PTg4MzcgKDEpLnBuZw==",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (1).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/__________/____________________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__1_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (1).png"
+            },
+            {
+              "id": "15fXqNeZ15LXqiDXkdeg15nXlC3XpNeg15nXlCDXnNek15nXp9eV15cg16LXnCDXlNeR16DXmdeULWZvcm1zLmhvbG9uLm11bmkuaWxfbW9rZWQtcHJvZmlsZV9fY2VsbHBob25lPTA1NDQwODUwODUmc2VjcmV0PTg4MzcucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837.png",
+              "source": "https://ik.imagekit.io/yinon/evidence/__________/____________________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16DXkdeZ15fXldeq",
+      "title": "נביחות",
+      "description": null,
+      "records": [
+        {
+          "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZ",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "שעתיים וחצי",
+          "occurredAt": "2025-07-02",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLTY1NTU2MUNBLUJBN0UtNDhFQS1CQUY1LUU0NTVCM0MxNkY3RF8xXzEwNV9jLmpwZWc=",
+              "type": "image",
+              "title": "655561CA-BA7E-48EA-BAF5-E455B3C16F7D_1_105_c.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/655561CA-BA7E-48EA-BAF5-E455B3C16F7D_1_105_c.jpeg",
+              "originalFilename": "655561CA-BA7E-48EA-BAF5-E455B3C16F7D_1_105_c.jpeg"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLTk4OTlEOUQzLTVENjktNEEyNS1CNDIzLTQyOUEzRTlEOTI2RV8xXzEwNV9jLmpwZWc=",
+              "type": "image",
+              "title": "9899D9D3-5D69-4A25-B423-429A3E9D926E_1_105_c.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/9899D9D3-5D69-4A25-B423-429A3E9D926E_1_105_c.jpeg",
+              "originalFilename": "9899D9D3-5D69-4A25-B423-429A3E9D926E_1_105_c.jpeg"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAgMi5tcDQ=",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30 2.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30_2.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30 2.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAgMy5tcDQ=",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30 3.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30_3.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30 3.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAgNC5tcDQ=",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30 4.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30_4.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30 4.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAgNS5tcDQ=",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30 5.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30_5.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30 5.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAgNi5tcDQ=",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30 6.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30_6.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30 6.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTAyLTA3LTIwMjUg16nXoteq15nXmdedINeV15fXpteZLVZJREVPLTIwMjUtMDctMTQtMDgtMzQtMzAubXA0",
+              "type": "video",
+              "title": "VIDEO-2025-07-14-08-34-30.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/02-07-2025____________/VIDEO-2025-07-14-08-34-30.mp4",
+              "originalFilename": "VIDEO-2025-07-14-08-34-30.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTA0LTA5LTIwMjUg15HXm9eZINep15wg15TXm9ec15E=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "בכי של הכלב",
+          "occurredAt": "2025-09-04",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTA0LTA5LTIwMjUg15HXm9eZINep15wg15TXm9ec15EtSU1HXzI5NzkuTU9W",
+              "type": "video",
+              "title": "IMG_2979.MOV",
+              "source": "error://too-large?name=IMG_2979.MOV",
+              "originalFilename": "IMG_2979.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTA1LTA5LTIwMjUg15TXqdeb158g15nXldem15Ag16LXnSDXlNeb15zXkSDXldeU15vXnNeRINeg15XXkdeXINeR15LXmdeg15Q=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "השכן יוצא עם הכלב והכלב נובח בגינה",
+          "occurredAt": "2025-09-05",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTA1LTA5LTIwMjUg15TXqdeb158g15nXldem15Ag16LXnSDXlNeb15zXkSDXldeU15vXnNeRINeg15XXkdeXINeR15LXmdeg15QtMTc1NzA2ODY0My5tcDQ=",
+              "type": "video",
+              "title": "1757068643.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/05-09-2025___________________________________/1757068643.mp4",
+              "originalFilename": "1757068643.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTA1LTEyLTIwMjQ=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "05-12-2024",
+          "occurredAt": "2024-12-05",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTA1LTEyLTIwMjQtSU1HXzA3OTguTU9W",
+              "type": "video",
+              "title": "IMG_0798.MOV",
+              "source": "error://too-large?name=IMG_0798.MOV",
+              "originalFilename": "IMG_0798.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTEwLTA2LTIwMjUg16nXoteU",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "שעה",
+          "occurredAt": "2025-06-10",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTEwLTA2LTIwMjUg16nXoteULUNCRUMyQjNGLTQyMzMtNDdDQy1CMDJDLTMzOUNCMUIyNTk3Nl8xXzEwNV9jLmpwZWc=",
+              "type": "image",
+              "title": "CBEC2B3F-4233-47CC-B02C-339CB1B25976_1_105_c.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/10-06-2025____/CBEC2B3F-4233-47CC-B02C-339CB1B25976_1_105_c.jpeg",
+              "originalFilename": "CBEC2B3F-4233-47CC-B02C-339CB1B25976_1_105_c.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTEwLTExLTIwMjUgMTAg15PXp9eV16og16jXpteV16M=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "10 דקות רצוף",
+          "occurredAt": "2025-11-10",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTEwLTExLTIwMjUgMTAg15PXp9eV16og16jXpteV16MtODA0ODJDMzcwM0E1MjAyNTExMTEwOTU4MzhfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251111095838_album_local_cache.mov",
+              "source": "error://too-large?name=80482C3703A520251111095838_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251111095838_album_local_cache.mov"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTExLTAzLTIwMjUg16DXkdeZ15fXldeqINeb15HXk9eV16o=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "נביחות כבדות",
+          "occurredAt": "2025-03-11",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTExLTAzLTIwMjUg16DXkdeZ15fXldeqINeb15HXk9eV16otRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDMxMS0xNDQ4MTcubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250311-144817.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/11-03-2025_____________/ERO-N7508HR_Camera_250311-144817.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250311-144817.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "12-10-2025",
+          "occurredAt": "2025-10-12",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fNDk3YmQyZGI5Y2FmOGIyOGQ5MTA3YmFmMjc0YzA0ZGEubXA0",
+              "type": "video",
+              "title": "video_497bd2db9caf8b28d9107baf274c04da.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_497bd2db9caf8b28d9107baf274c04da.mp4",
+              "originalFilename": "video_497bd2db9caf8b28d9107baf274c04da.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fNjMzMzZjZTUyOTUwYmIzOTQ2MDhkNDA5ZTczZWU2ZjkubXA0",
+              "type": "video",
+              "title": "video_63336ce52950bb394608d409e73ee6f9.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_63336ce52950bb394608d409e73ee6f9.mp4",
+              "originalFilename": "video_63336ce52950bb394608d409e73ee6f9.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fN2U1OGYzODk2NzE1MGYwMTVjZDFmM2NlYzhlYWExNzQubXA0",
+              "type": "video",
+              "title": "video_7e58f38967150f015cd1f3cec8eaa174.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_7e58f38967150f015cd1f3cec8eaa174.mp4",
+              "originalFilename": "video_7e58f38967150f015cd1f3cec8eaa174.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fOGE0NTYwNzU1ODdhOGQxOTk3NTRjZTYxZTJhMDVjMWEubXA0",
+              "type": "video",
+              "title": "video_8a456075587a8d199754ce61e2a05c1a.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_8a456075587a8d199754ce61e2a05c1a.mp4",
+              "originalFilename": "video_8a456075587a8d199754ce61e2a05c1a.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fOGFmODI1NTBlMzQyMmFiZjU1MjEyODE1ZTU5NzkxMzkubXA0",
+              "type": "video",
+              "title": "video_8af82550e3422abf55212815e5979139.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_8af82550e3422abf55212815e5979139.mp4",
+              "originalFilename": "video_8af82550e3422abf55212815e5979139.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEyLTEwLTIwMjUtdmlkZW9fZDM3MzJhNzg5NGRlY2VhODE2NzEwNDY5ZDg2MTkyOTkubXA0",
+              "type": "video",
+              "title": "video_d3732a7894decea816710469d8619299.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/12-10-2025/video_d3732a7894decea816710469d8619299.mp4",
+              "originalFilename": "video_d3732a7894decea816710469d8619299.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "13-10-2025",
+          "occurredAt": "2025-10-13",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzExMjRfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131124_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131124_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131124_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzEzNTRfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131354_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131354_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131354_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzE1MjJfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131522_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131522_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131522_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzE2MjZfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131626_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131626_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131626_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzE4MTNfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131813_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131813_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131813_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtODA0ODJDMzcwM0E1MjAyNTEwMTMxMzE5MjdfYWxidW1fbG9jYWxfY2FjaGUubW92",
+              "type": "video",
+              "title": "80482C3703A520251013131927_album_local_cache.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/80482C3703A520251013131927_album_local_cache.mov",
+              "originalFilename": "80482C3703A520251013131927_album_local_cache.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTEzLTEwLTIwMjUtdmlkZW9fOGE0NTYwNzU1ODdhOGQxOTk3NTRjZTYxZTJhMDVjMWEubXA0",
+              "type": "video",
+              "title": "video_8a456075587a8d199754ce61e2a05c1a.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/13-10-2025/video_8a456075587a8d199754ce61e2a05c1a.mp4",
+              "originalFilename": "video_8a456075587a8d199754ce61e2a05c1a.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE0LTA4LTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "14-08-2025",
+          "occurredAt": "2025-08-14",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE0LTA4LTIwMjUtN0M4NjIyRjUtNkZGOS00RjQ3LUJDQTQtQzE2NjJENTc2Q0NEXzFfMjAxX2EuanBlZw==",
+              "type": "image",
+              "title": "7C8622F5-6FF9-4F47-BCA4-C1662D576CCD_1_201_a.jpeg",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/14-08-2025/7C8622F5-6FF9-4F47-BCA4-C1662D576CCD_1_201_a.jpeg",
+              "originalFilename": "7C8622F5-6FF9-4F47-BCA4-C1662D576CCD_1_201_a.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE2LTEwLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "16-10-2025",
+          "occurredAt": "2025-10-16",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE2LTEwLTIwMjUtU2NyZWVuUmVjb3JkaW5nXzEwLTE5LTIwMjUgMDktNDItNTRfMS5tcDQ=",
+              "type": "video",
+              "title": "ScreenRecording_10-19-2025 09-42-54_1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/16-10-2025/ScreenRecording_10-19-2025_09-42-54_1.mp4",
+              "originalFilename": "ScreenRecording_10-19-2025 09-42-54_1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE3LTAzLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "17-03-2025",
+          "occurredAt": "2025-03-17",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE3LTAzLTIwMjUt15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzE3LTE0MzcyMS5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250317-143721.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/17-03-2025/ינון_חולון_Camera_250317-143721.mp4",
+              "originalFilename": "ינון חולון_Camera_250317-143721.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE3LTEwLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "17-10-2025",
+          "occurredAt": "2025-10-17",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE3LTEwLTIwMjUtU2NyZWVuUmVjb3JkaW5nXzEwLTE5LTIwMjUgMDktNDItMzFfMS5tcDQ=",
+              "type": "video",
+              "title": "ScreenRecording_10-19-2025 09-42-31_1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/17-10-2025/ScreenRecording_10-19-2025_09-42-31_1.mp4",
+              "originalFilename": "ScreenRecording_10-19-2025 09-42-31_1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE4LTAyLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "18-02-2025",
+          "occurredAt": "2025-02-18",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE4LTAyLTIwMjUtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDIxOC0xNzAxMjgubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250218-170128.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/18-02-2025/ERO-N7508HR_Camera_250218-170128.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250218-170128.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE4LTEwLTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "18-10-2025",
+          "occurredAt": "2025-10-18",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE4LTEwLTIwMjUtU2NyZWVuUmVjb3JkaW5nXzEwLTE5LTIwMjUgMDktNDItMDZfMS5tcDQ=",
+              "type": "video",
+              "title": "ScreenRecording_10-19-2025 09-42-06_1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/18-10-2025/ScreenRecording_10-19-2025_09-42-06_1.mp4",
+              "originalFilename": "ScreenRecording_10-19-2025 09-42-06_1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE4LTExLTIwMjUg15nXldem15DXmdedINec15jXmdeV15wg16LXnSDXm9ec15Eg15XXntep15DXmdeo15nXnSDXkNeqINeU15vXnNeRINeg15XXkdeX",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "יוצאים לטיול עם כלב ומשאירים את הכלב נובח",
+          "occurredAt": "2025-11-18",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE4LTExLTIwMjUg15nXldem15DXmdedINec15jXmdeV15wg16LXnSDXm9ec15Eg15XXntep15DXmdeo15nXnSDXkNeqINeU15vXnNeRINeg15XXkdeXLTE3NjM0NzE2NDIubW92",
+              "type": "video",
+              "title": "1763471642.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/18-11-2025__________________________________________/1763471642.mov",
+              "originalFilename": "1763471642.mov"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTE4LTExLTIwMjUg15nXldem15DXmdedINec15jXmdeV15wg16LXnSDXm9ec15Eg15XXntep15DXmdeo15nXnSDXkNeqINeU15vXnNeRINeg15XXkdeXLTE3NjM0NzIzNjcubW92",
+              "type": "video",
+              "title": "1763472367.mov",
+              "source": "error://too-large?name=1763472367.mov",
+              "originalFilename": "1763472367.mov"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTE5LTAxLTI1INeS150g157XqteV15og15TXkdeZ16o=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "גם מתוך הבית",
+          "occurredAt": "2025-01-19",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTE5LTAxLTI1INeS150g157XqteV15og15TXkdeZ16otSU1HXzEwNzEuTU9W",
+              "type": "video",
+              "title": "IMG_1071.MOV",
+              "source": "error://too-large?name=IMG_1071.MOV",
+              "originalFilename": "IMG_1071.MOV"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTE5LTAxLTI1INeS150g157XqteV15og15TXkdeZ16otSU1HXzEwNzIuTU9W",
+              "type": "video",
+              "title": "IMG_1072.MOV",
+              "source": "error://too-large?name=IMG_1072.MOV",
+              "originalFilename": "IMG_1072.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIwLTA3LTIwMjUg15fXpteZINep16LXlCDXqNem15XXow==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "חצי שעה רצוף",
+          "occurredAt": "2025-07-20",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIwLTA3LTIwMjUg15fXpteZINep16LXlCDXqNem15XXoy1EMDNGMjc5RjFFRDIyMDI1MDcyMDE5NDUxOF9hbGJ1bV9sb2NhbF9jYWNoZS5tcDQ=",
+              "type": "video",
+              "title": "D03F279F1ED220250720194518_album_local_cache.mp4",
+              "source": "error://too-large?name=D03F279F1ED220250720194518_album_local_cache.mp4",
+              "originalFilename": "D03F279F1ED220250720194518_album_local_cache.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIxLTEwLTIwMjUg157XmNeo15Mg15nXldee15kgLSDXlNeQ15XXpNeg15XXoiDXnteS15nXoiDXldeU15vXnNeRINee16nXqteV15zXnA==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "מטרד יומי - האופנוע מגיע והכלב משתולל",
+          "occurredAt": "2025-10-21",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIxLTEwLTIwMjUg157XmNeo15Mg15nXldee15kgLSDXlNeQ15XXpNeg15XXoiDXnteS15nXoiDXldeU15vXnNeRINee16nXqteV15zXnC1JTUdfMzE1Ni5NT1Y=",
+              "type": "video",
+              "title": "IMG_3156.MOV",
+              "source": "error://too-large?name=IMG_3156.MOV",
+              "originalFilename": "IMG_3156.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eU",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "שעה וחצי בשעות המנוחה",
+          "occurredAt": "2025-01-22",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTQzMjQxLm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-143241.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-143241.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-143241.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTQzNDQ5Lm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-143449.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-143449.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-143449.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTQ0NzQ1Lm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-144745.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-144745.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-144745.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTQ0OTEyLm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-144912.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-144912.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-144912.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTQ1NDQ5Lm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-145449.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-145449.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-145449.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTU0NzQwLm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-154740.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-154740.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-154740.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTAxLTIwMjUg16nXoteUINeV15fXpteZINeR16nXoteV16og15TXnteg15XXl9eULUVSTy1ONzUwOEhSX0NhbWVyYV8yNTAxMjItMTU0OTQ2Lm1wNA==",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250122-154946.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-01-2025______________________/ERO-N7508HR_Camera_250122-154946.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250122-154946.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqg==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "14 אירועי נביחות",
+          "occurredAt": "2025-10-22",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi1TY3JlZW5SZWNvcmRpbmdfMTAtMjMtMjAyNSAxNC0yMi0wN18xLm1wNA==",
+              "type": "video",
+              "title": "ScreenRecording_10-23-2025 14-22-07_1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/ScreenRecording_10-23-2025_14-22-07_1.mp4",
+              "originalFilename": "ScreenRecording_10-23-2025 14-22-07_1.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi1TY3JlZW5zaG90IDIwMjUtMTAtMjMgYXQgMTQuMjAuMjQucG5n",
+              "type": "image",
+              "title": "Screenshot 2025-10-23 at 14.20.24.png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/Screenshot_2025-10-23_at_14.20.24.png",
+              "originalFilename": "Screenshot 2025-10-23 at 14.20.24.png"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb18wZjdlODVhOTQ1ZDRmODlhODhlNDgwM2Q5ZjcwYmM1Mi5tcDQ=",
+              "type": "video",
+              "title": "video_0f7e85a945d4f89a88e4803d9f70bc52.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_0f7e85a945d4f89a88e4803d9f70bc52.mp4",
+              "originalFilename": "video_0f7e85a945d4f89a88e4803d9f70bc52.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb18yYzQ4OGI5ODI2OGVlOTIxZGI1NWQ4YTA2MjIyOTgzZS5tcDQ=",
+              "type": "video",
+              "title": "video_2c488b98268ee921db55d8a06222983e.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_2c488b98268ee921db55d8a06222983e.mp4",
+              "originalFilename": "video_2c488b98268ee921db55d8a06222983e.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb18yZjEwNWQ5NmE0MmIxZWRhODI0Zjg1NTg0NTExYmY0ZC5tcDQ=",
+              "type": "video",
+              "title": "video_2f105d96a42b1eda824f85584511bf4d.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_2f105d96a42b1eda824f85584511bf4d.mp4",
+              "originalFilename": "video_2f105d96a42b1eda824f85584511bf4d.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb18zMDdmNDRkNjEzMzRkNGFlYWMzNTU2Y2M5MmZkYjYyMS5tcDQ=",
+              "type": "video",
+              "title": "video_307f44d61334d4aeac3556cc92fdb621.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_307f44d61334d4aeac3556cc92fdb621.mp4",
+              "originalFilename": "video_307f44d61334d4aeac3556cc92fdb621.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb18zZjVkMTFmZjc5OGQ0NzBiMzBiZDJkMzM4NjRhY2JiNy5tcDQ=",
+              "type": "video",
+              "title": "video_3f5d11ff798d470b30bd2d33864acbb7.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_3f5d11ff798d470b30bd2d33864acbb7.mp4",
+              "originalFilename": "video_3f5d11ff798d470b30bd2d33864acbb7.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb180OTFmOGQ5OTc5Mjk3OGY4ZTcxMTkwNTI0MGM3ZjRmZC5tcDQ=",
+              "type": "video",
+              "title": "video_491f8d99792978f8e711905240c7f4fd.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_491f8d99792978f8e711905240c7f4fd.mp4",
+              "originalFilename": "video_491f8d99792978f8e711905240c7f4fd.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb181ZTE2OThlZTJlMWVhNjA1ZmM3ODdjZmZiYjkxMTJiZS5tcDQ=",
+              "type": "video",
+              "title": "video_5e1698ee2e1ea605fc787cffbb9112be.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_5e1698ee2e1ea605fc787cffbb9112be.mp4",
+              "originalFilename": "video_5e1698ee2e1ea605fc787cffbb9112be.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb181ZmRhZmYyOTcxOTZkZjdhMzBkM2FjY2NjYjQzYTM5NC5tcDQ=",
+              "type": "video",
+              "title": "video_5fdaff297196df7a30d3accccb43a394.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_5fdaff297196df7a30d3accccb43a394.mp4",
+              "originalFilename": "video_5fdaff297196df7a30d3accccb43a394.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb183MjdmYjIyM2Q4MzE5NjZhMzQxOTc2ZTA2YWU0ZGVjZi5tcDQ=",
+              "type": "video",
+              "title": "video_727fb223d831966a341976e06ae4decf.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_727fb223d831966a341976e06ae4decf.mp4",
+              "originalFilename": "video_727fb223d831966a341976e06ae4decf.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb184Y2UwMjI1NWYzNWYwNTU1Yzc4NGY0NGViMDdkMzNkMC5tcDQ=",
+              "type": "video",
+              "title": "video_8ce02255f35f0555c784f44eb07d33d0.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_8ce02255f35f0555c784f44eb07d33d0.mp4",
+              "originalFilename": "video_8ce02255f35f0555c784f44eb07d33d0.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb185ZTczOTRmNDY3YzJhMGI0ZTU4NDRhMzMwOTVhYzI1MS5tcDQ=",
+              "type": "video",
+              "title": "video_9e7394f467c2a0b4e5844a33095ac251.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_9e7394f467c2a0b4e5844a33095ac251.mp4",
+              "originalFilename": "video_9e7394f467c2a0b4e5844a33095ac251.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb19kZTljZTlkZTg4YmQxZTIzZTE3YWQ4M2VjYzM0M2U2Zi5tcDQ=",
+              "type": "video",
+              "title": "video_de9ce9de88bd1e23e17ad83ecc343e6f.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_de9ce9de88bd1e23e17ad83ecc343e6f.mp4",
+              "originalFilename": "video_de9ce9de88bd1e23e17ad83ecc343e6f.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb19mNjMwNDI5NTk5NzQ1ODQxMjQ2YmVjZmQ0YzNlYmRkOS5tcDQ=",
+              "type": "video",
+              "title": "video_f630429599745841246becfd4c3ebdd9.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_f630429599745841246becfd4c3ebdd9.mp4",
+              "originalFilename": "video_f630429599745841246becfd4c3ebdd9.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEwLTIwMjUgMTQg15DXmdeo15XXoteZINeg15HXmdeX15XXqi12aWRlb19mYjcxYTY5NGJjMTY1Njg3MWNmMmMwYjY5OGRmMjBjMS5tcDQ=",
+              "type": "video",
+              "title": "video_fb71a694bc1656871cf2c0b698df20c1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/22-10-2025_14______________/video_fb71a694bc1656871cf2c0b698df20c1.mp4",
+              "originalFilename": "video_fb71a694bc1656871cf2c0b698df20c1.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIyLTEyLTIwMjQ=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "22-12-2024",
+          "occurredAt": "2024-12-22",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIyLTEyLTIwMjQtSU1HXzA4NjUuTU9W",
+              "type": "video",
+              "title": "IMG_0865.MOV",
+              "source": "error://too-large?name=IMG_0865.MOV",
+              "originalFilename": "IMG_0865.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTIzLTAxLTIwMjUg16jXldeQ15nXnSDXkNeqINeU15vXnNeRINee16rXqNeV16bXpQ==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "רואים את הכלב מתרוצץ",
+          "occurredAt": "2025-01-23",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTIzLTAxLTIwMjUg16jXldeQ15nXnSDXkNeqINeU15vXnNeRINee16rXqNeV16bXpS1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIzLTEyMTIxNy5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250123-121217.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/23-01-2025_____________________/ERO-N7508HR_Camera_250123-121217.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250123-121217.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIzLTAxLTIwMjUg16jXldeQ15nXnSDXkNeqINeU15vXnNeRINee16rXqNeV16bXpS1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIzLTEzNDYwMi5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250123-134602.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/23-01-2025_____________________/ERO-N7508HR_Camera_250123-134602.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250123-134602.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIzLTAxLTIwMjUg16jXldeQ15nXnSDXkNeqINeU15vXnNeRINee16rXqNeV16bXpS1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIzLTEzNDcyMy5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250123-134723.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/23-01-2025_____________________/ERO-N7508HR_Camera_250123-134723.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250123-134723.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTIzLTAxLTIwMjUg16jXldeQ15nXnSDXkNeqINeU15vXnNeRINee16rXqNeV16bXpS1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTIzLTE1MTAzMS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250123-151031.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/23-01-2025_____________________/ERO-N7508HR_Camera_250123-151031.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250123-151031.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16o=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "45 דקות",
+          "occurredAt": "2025-03-24",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16ot15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzI0LTE0NDUzOS5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250324-144539.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/24-03-2025_45_____/ינון_חולון_Camera_250324-144539.mp4",
+              "originalFilename": "ינון חולון_Camera_250324-144539.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16ot15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzI0LTE1MDk0OC5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250324-150948.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/24-03-2025_45_____/ינון_חולון_Camera_250324-150948.mp4",
+              "originalFilename": "ינון חולון_Camera_250324-150948.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16ot15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzI0LTE1MjUwMS5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250324-152501.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/24-03-2025_45_____/ינון_חולון_Camera_250324-152501.mp4",
+              "originalFilename": "ינון חולון_Camera_250324-152501.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16ot15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzI0LTE1NDIwNC5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250324-154204.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/24-03-2025_45_____/ינון_חולון_Camera_250324-154204.mp4",
+              "originalFilename": "ינון חולון_Camera_250324-154204.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTAzLTIwMjUgNDUg15PXp9eV16ot15nXoNeV158g15fXldec15XXn19DYW1lcmFfMjUwMzI0LTE1NDI1Mi5tcDQ=",
+              "type": "video",
+              "title": "ינון חולון_Camera_250324-154252.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/24-03-2025_45_____/ינון_חולון_Camera_250324-154252.mp4",
+              "originalFilename": "ינון חולון_Camera_250324-154252.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTI0LTEyLTIwMjQg16bXmdec15XXnSDXntei15HXqCDXnNeS15PXqCDXqNeV15DXmdedINeQ16og15TXm9ec15Eg157Xqteo15XXptel",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "צילום מעבר לגדר רואים את הכלב מתרוצץ",
+          "occurredAt": "2024-12-24",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTEyLTIwMjQg16bXmdec15XXnSDXntei15HXqCDXnNeS15PXqCDXqNeV15DXmdedINeQ16og15TXm9ec15Eg157Xqteo15XXptelLUlNR18wODc1Lk1PVg==",
+              "type": "video",
+              "title": "IMG_0875.MOV",
+              "source": "error://too-large?name=IMG_0875.MOV",
+              "originalFilename": "IMG_0875.MOV"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTI0LTEyLTIwMjQg16bXmdec15XXnSDXntei15HXqCDXnNeS15PXqCDXqNeV15DXmdedINeQ16og15TXm9ec15Eg157Xqteo15XXptelLUlNR18wODc2IDMuTU9W",
+              "type": "video",
+              "title": "IMG_0876 3.MOV",
+              "source": "error://too-large?name=IMG_0876%203.MOV",
+              "originalFilename": "IMG_0876 3.MOV"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTI2LTA1LTIwMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "26-05-2025",
+          "occurredAt": "2025-05-26",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTI2LTA1LTIwMjUtTG9jYWxSZWNvcmRfMjAyNTA1MjZfMTRfMTJfMzgubXA0",
+              "type": "video",
+              "title": "LocalRecord_20250526_14_12_38.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/נביחות/26-05-2025/LocalRecord_20250526_14_12_38.mp4",
+              "originalFilename": "LocalRecord_20250526_14_12_38.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15Q=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "50 דקות בשעות המנוחה",
+          "occurredAt": "2025-01-30",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDQyMzIubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-144232.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-144232.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-144232.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDUwMjMubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-145023.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-145023.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-145023.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDUxNTgubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-145158.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-145158.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-145158.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDU0MDkubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-145409.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-145409.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-145409.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDU3MjMubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-145723.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-145723.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-145723.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNDU4NDkubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-145849.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-145849.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-145849.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNTA0MjQubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-150424.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-150424.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-150424.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNTEwNDYubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-151046.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-151046.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-151046.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNTI1MzQubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-152534.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-152534.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-152534.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNTI4MjQubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-152824.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-152824.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-152824.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMwLTAxLTIwMjUgNTAg15PXp9eV16og15HXqdei15XXqiDXlNee16DXldeX15QtRVJPLU43NTA4SFJfQ2FtZXJhXzI1MDEzMC0xNTMwMjQubXA0",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250130-153024.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/30-01-2025_50__________________/ERO-N7508HR_Camera_250130-153024.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250130-153024.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlA==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "חצי שעה בשעות המנוחה",
+          "occurredAt": "2025-01-31",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MjY1OS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-142659.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-142659.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-142659.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MzEyMS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-143121.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-143121.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-143121.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MzE0OS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-143149.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-143149.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-143149.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MzMyNC5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-143324.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-143324.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-143324.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MzQyMi5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-143422.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-143422.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-143422.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0MzQ0OC5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-143448.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-143448.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-143448.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0NDAwOC5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-144008.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-144008.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-144008.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0NDA0Ni5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-144046.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-144046.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-144046.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0NDg0MS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-144841.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-144841.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-144841.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLTMxLTAxLTIwMjUg15fXpteZINep16LXlCDXkdep16LXldeqINeU157XoNeV15fXlC1FUk8tTjc1MDhIUl9DYW1lcmFfMjUwMTMxLTE0NTEwMS5tcDQ=",
+              "type": "video",
+              "title": "ERO-N7508HR_Camera_250131-145101.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/31-01-2025_____________________/ERO-N7508HR_Camera_250131-145101.mp4",
+              "originalFilename": "ERO-N7508HR_Camera_250131-145101.mp4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNQ==",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "נביחות 17,18-08-25",
+          "occurredAt": "2025-12-01",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS1TY3JlZW5SZWNvcmRpbmdfMDgtMTktMjAyNSAxNi0yOS01OF8xLm1wNA==",
+              "type": "video",
+              "title": "ScreenRecording_08-19-2025 16-29-58_1.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/ScreenRecording_08-19-2025_16-29-58_1.mp4",
+              "originalFilename": "ScreenRecording_08-19-2025 16-29-58_1.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb18yZDYzYTFlZjlkMGVhMzUwZDNmZTk0NGI4NmVhMDM3My5NUDQ=",
+              "type": "video",
+              "title": "video_2d63a1ef9d0ea350d3fe944b86ea0373.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_2d63a1ef9d0ea350d3fe944b86ea0373.MP4",
+              "originalFilename": "video_2d63a1ef9d0ea350d3fe944b86ea0373.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb18yZWRjNjg5MzM3NjFlZWNkYzYwOTcyMmY5MDhlZjMwZC5NUDQ=",
+              "type": "video",
+              "title": "video_2edc68933761eecdc609722f908ef30d.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_2edc68933761eecdc609722f908ef30d.MP4",
+              "originalFilename": "video_2edc68933761eecdc609722f908ef30d.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb18zYTYyODQxNzAzZmYzMjFkYTEyNTJlMzM4YjZkZmY3MS5NUDQ=",
+              "type": "video",
+              "title": "video_3a62841703ff321da1252e338b6dff71.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_3a62841703ff321da1252e338b6dff71.MP4",
+              "originalFilename": "video_3a62841703ff321da1252e338b6dff71.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb180NWRhZTg3YWZhYTk0NWE0NzBkNWQ0NWZjMGI0MGY4ZS5NUDQ=",
+              "type": "video",
+              "title": "video_45dae87afaa945a470d5d45fc0b40f8e.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_45dae87afaa945a470d5d45fc0b40f8e.MP4",
+              "originalFilename": "video_45dae87afaa945a470d5d45fc0b40f8e.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb182ODAzNjUwZDQ1NDdjZDk1ODczNzNiNjYxOTM0ODQ0My5NUDQ=",
+              "type": "video",
+              "title": "video_6803650d4547cd9587373b6619348443.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_6803650d4547cd9587373b6619348443.MP4",
+              "originalFilename": "video_6803650d4547cd9587373b6619348443.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb182OGIyMmZlZTkxMzA0YTQyMzI3NGQzNjVhN2E4ZmFlMC5NUDQ=",
+              "type": "video",
+              "title": "video_68b22fee91304a423274d365a7a8fae0.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_68b22fee91304a423274d365a7a8fae0.MP4",
+              "originalFilename": "video_68b22fee91304a423274d365a7a8fae0.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb185NDU2ZjUzNjVlZjljZDliMDg3NmI5ZDNjMmZkYTk0ZS5NUDQ=",
+              "type": "video",
+              "title": "video_9456f5365ef9cd9b0876b9d3c2fda94e.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_9456f5365ef9cd9b0876b9d3c2fda94e.MP4",
+              "originalFilename": "video_9456f5365ef9cd9b0876b9d3c2fda94e.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb185OTNmN2FhNDAzMjAxZTYzZDMzMGI4NjFmZmYyZGQ1MS5NUDQ=",
+              "type": "video",
+              "title": "video_993f7aa403201e63d330b861fff2dd51.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_993f7aa403201e63d330b861fff2dd51.MP4",
+              "originalFilename": "video_993f7aa403201e63d330b861fff2dd51.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb19iZDQyMGE0NTY1OTExZTUyMDAwNTJhYjQ4NTAyN2M0ZC5NUDQ=",
+              "type": "video",
+              "title": "video_bd420a4565911e5200052ab485027c4d.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_bd420a4565911e5200052ab485027c4d.MP4",
+              "originalFilename": "video_bd420a4565911e5200052ab485027c4d.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb19jODQxNTc0ODQ0ZTk0OTU5ZGI4MzBjYzFkYzA5YTcwYi5NUDQ=",
+              "type": "video",
+              "title": "video_c841574844e94959db830cc1dc09a70b.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_c841574844e94959db830cc1dc09a70b.MP4",
+              "originalFilename": "video_c841574844e94959db830cc1dc09a70b.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb19lMGYzYzBiMmVmMDFmOWFlMzExODY4ODIxNWE3NDc2OC5NUDQ=",
+              "type": "video",
+              "title": "video_e0f3c0b2ef01f9ae3118688215a74768.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_e0f3c0b2ef01f9ae3118688215a74768.MP4",
+              "originalFilename": "video_e0f3c0b2ef01f9ae3118688215a74768.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb19lOTQyYjJjYzBiMjdiMWI5NjIxNTlmMzA1Y2U1ZTY5NS5NUDQ=",
+              "type": "video",
+              "title": "video_e942b2cc0b27b1b962159f305ce5e695.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_e942b2cc0b27b1b962159f305ce5e695.MP4",
+              "originalFilename": "video_e942b2cc0b27b1b962159f305ce5e695.MP4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiAxNywxOC0wOC0yNS12aWRlb19mZDZiMTFmYzgwZGFiM2U5ZjMzMGQyYTFlMjE2YjdlMy5NUDQ=",
+              "type": "video",
+              "title": "video_fd6b11fc80dab3e9f330d2a1e216b7e3.MP4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_______17_18-08-25/video_fd6b11fc80dab3e9f330d2a1e216b7e3.MP4",
+              "originalFilename": "video_fd6b11fc80dab3e9f330d2a1e216b7e3.MP4"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjU=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "נביחות שישי שבת 15,16-08-25",
+          "occurredAt": "2025-12-01",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjUwLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_650.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_650.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_650.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjY2Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_666.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_666.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_666.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjY5Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_669.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_669.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_669.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjc2Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_676.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_676.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_676.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjc4Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_678.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_678.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_678.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjgyLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_682.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_682.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_682.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjg2Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_686.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_686.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_686.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjg5Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_689.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_689.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_689.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjkyLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_692.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_692.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_692.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNjk4Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_698.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_698.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_698.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzAwLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_700.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_700.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_700.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzA0Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_704.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_704.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_704.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzA3Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_707.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_707.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_707.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzA5Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_709.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_709.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_709.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzEyLm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_712.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_712.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_712.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzE1Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_715.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_715.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_715.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtTG9jYWxSZWNvcmRfMjAyNTA4MThfMTRfNDNfMzlfNzE3Lm1wNA==",
+              "type": "video",
+              "title": "LocalRecord_20250818_14_43_39_717.mp4",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/LocalRecord_20250818_14_43_39_717.mp4",
+              "originalFilename": "LocalRecord_20250818_14_43_39_717.mp4"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdeg15HXmdeX15XXqiDXqdeZ16nXmSDXqdeR16ogMTUsMTYtMDgtMjUtU2NyZWVuUmVjb3JkaW5nXzA4LTE3LTIwMjUgMDAtNDAtMzBfMS5tb3Y=",
+              "type": "video",
+              "title": "ScreenRecording_08-17-2025 00-40-30_1.mov",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/________________15_16-08-25/ScreenRecording_08-17-2025_00-40-30_1.mov",
+              "originalFilename": "ScreenRecording_08-17-2025 00-40-30_1.mov"
+            }
+          ]
+        },
+        {
+          "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15Q=",
+          "categoryId": "16DXkdeZ15fXldeq",
+          "title": "פניות לעירייה",
+          "occurredAt": "2025-12-01",
+          "media": [
+            {
+              "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15QtZm9ybXMuaG9sb24ubXVuaS5pbF9tb2tlZC1wcm9maWxlX19jZWxscGhvbmU9MDU0NDA4NTA4NSZzZWNyZXQ9ODgzNyAoMikucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (2).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_____________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__2_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (2).png"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15QtZm9ybXMuaG9sb24ubXVuaS5pbF9tb2tlZC1wcm9maWxlX19jZWxscGhvbmU9MDU0NDA4NTA4NSZzZWNyZXQ9ODgzNyAoMykucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (3).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_____________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__3_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (3).png"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15QtZm9ybXMuaG9sb24ubXVuaS5pbF9tb2tlZC1wcm9maWxlX19jZWxscGhvbmU9MDU0NDA4NTA4NSZzZWNyZXQ9ODgzNyAoNCkucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (4).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_____________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__4_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (4).png"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15QtZm9ybXMuaG9sb24ubXVuaS5pbF9tb2tlZC1wcm9maWxlX19jZWxscGhvbmU9MDU0NDA4NTA4NSZzZWNyZXQ9ODgzNyAoNSkucG5n",
+              "type": "image",
+              "title": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (5).png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_____________/forms.holon.muni.il_moked-profile__cellphone_0544085085_secret_8837__5_.png",
+              "originalFilename": "forms.holon.muni.il_moked-profile__cellphone=0544085085&secret=8837 (5).png"
+            },
+            {
+              "id": "16DXkdeZ15fXldeqLdek16DXmdeV16og15zXoteZ16jXmdeZ15Qt16TXoNeZ15nXqiDXnteR16fXqCDXlNee15PXmdeg15Qg15zXoteZ16jXmdeZ15QucG5n",
+              "type": "image",
+              "title": "פניית מבקר המדינה לעירייה.png",
+              "source": "https://ik.imagekit.io/yinon/evidence/______/_____________/פניית_מבקר_המדינה_לעירייה.png",
+              "originalFilename": "פניית מבקר המדינה לעירייה.png"
             }
           ]
         }

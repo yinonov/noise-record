@@ -3,6 +3,7 @@ import './styles/tokens.css'
 import { useEffect, useState } from 'react'
 import { List } from './components/List'
 import { Modal } from './components/Modal'
+import { MetadataEditor } from './components/MetadataEditor'
 import type { EvidenceData, RecordItem } from './utils/dataLoader'
 import { loadEvidence } from './utils/dataLoader'
 import { downloadAllSequential, downloadFile } from './utils/downloads'
@@ -17,6 +18,7 @@ function App() {
   const [selected, setSelected] = useState<RecordItem | null>(null)
   const [mediaIndex, setMediaIndex] = useState(0)
   const [notice, setNotice] = useState<string | null>(null)
+  const [isEditing, setIsEditing] = useState(false)
 
   useEffect(() => {
     loadEvidence().then((result) => {
@@ -58,9 +60,9 @@ function App() {
 
   const onDownloadAll = async () => {
     if (!selected) return
+    const urls = selected.media.map((m) => m.source)
+    const names = selected.media.map((m) => m.originalFilename)
     try {
-      const urls = selected.media.map((m) => m.source)
-      const names = selected.media.map((m) => m.originalFilename)
       await downloadAllSequential(urls, names)
       setNotice('Downloading all files…')
     } catch (error) {
@@ -68,11 +70,29 @@ function App() {
     }
   }
 
+  if (isEditing && state.status === 'ready') {
+    return (
+      <MetadataEditor
+        data={state.data}
+        onSave={(newData) => {
+          setState({ status: 'ready', data: newData })
+          setIsEditing(false)
+        }}
+        onCancel={() => setIsEditing(false)}
+      />
+    )
+  }
+
   return (
     <main className="app-shell">
       <header className="app-header">
-        <h1>Noise Evidence Viewer</h1>
-        <p className="lede">Temporary viewer for static evidence records.</p>
+        <div className="header-content">
+          <h1>Noise Evidence Viewer</h1>
+          <p className="lede">Temporary viewer for static evidence records.</p>
+        </div>
+        <button className="edit-button" onClick={() => setIsEditing(true)}>
+          Edit Metadata
+        </button>
       </header>
       {hasData ? (
         <List

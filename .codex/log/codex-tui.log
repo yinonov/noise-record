@@ -2085,3 +2085,19 @@
 +- [x] T030 [P] Accessibility audit (labels, focus order, keyboard support) in `src/components/`
 +- [x] T031 Run full test suite (lint, type-check, unit, e2e) and fix failures
 *** End Patch
+[2m2025-11-30T12:27:20.529721Z[0m [32m INFO[0m spawning ghost snapshot task
+[2m2025-11-30T12:27:20.970239Z[0m [32m INFO[0m ghost snapshot blocking task finished
+[2m2025-11-30T12:27:20.970270Z[0m [32m INFO[0m ghost commit captured: a6b35510206e46373d4273298203a859616a95ad
+[2m2025-11-30T12:27:20.970277Z[0m [32m INFO[0m ghost snapshot gate marked ready
+[2m2025-11-30T12:29:37.419162Z[0m [32m INFO[0m spawning ghost snapshot task
+[2m2025-11-30T12:29:37.888629Z[0m [32m INFO[0m ghost snapshot blocking task finished
+[2m2025-11-30T12:29:37.888661Z[0m [32m INFO[0m ghost commit captured: 46bf88103cbfc955303d733ea8e4ea4bc56fab07
+[2m2025-11-30T12:29:37.888708Z[0m [32m INFO[0m ghost snapshot gate marked ready
+[2m2025-11-30T15:24:51.711944Z[0m [32m INFO[0m spawning ghost snapshot task
+[2m2025-11-30T15:28:32.526761Z[0m [32m INFO[0m spawning ghost snapshot task
+[2m2025-11-30T15:29:50.089828Z[0m [32m INFO[0m ghost snapshot blocking task finished
+[2m2025-11-30T15:29:50.091348Z[0m [32m INFO[0m ghost commit captured: a97f9c7e668454e314000922f3f9e787fc7de392
+[2m2025-11-30T15:29:50.091703Z[0m [32m INFO[0m ghost snapshot gate marked ready
+[2m2025-11-30T15:31:07.153134Z[0m [32m INFO[0m ghost snapshot blocking task finished
+[2m2025-11-30T15:31:07.155668Z[0m [32m INFO[0m ghost commit captured: 62ed946376269aa62ec673daaaed63d06966dc15
+[2m2025-11-30T15:31:07.155755Z[0m [32m INFO[0m ghost snapshot gate marked ready
