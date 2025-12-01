@@ -8,9 +8,14 @@ description: "Task list template for feature implementation"
 **Input**: Design documents from `/specs/[###-feature-name]/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
 
-**Tests**: The examples below include test tasks. Tests are OPTIONAL - only include them if explicitly requested in the feature specification.
+**Tests**: Unit coverage for media gallery utilities and modal open/close/download flows plus a
+smoke/E2E path for record open and single/multi-download is REQUIRED by the constitution; extend with
+additional tests when the feature demands.
 
 **Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.
+Ensure tasks also cover accessibility (layout consistency, badges, focus trap, keyboard/ARIA, mobile),
+performance (lazy-load media, lightweight assets, avoiding expensive nested renders), static JSON data
+handling with empty states, and download filename preservation.
 
 ## Format: `[ID] [P?] [Story] Description`
 
@@ -62,12 +67,12 @@ description: "Task list template for feature implementation"
 
 Examples of foundational tasks (adjust based on your project):
 
-- [ ] T004 Setup database schema and migrations framework
-- [ ] T005 [P] Implement authentication/authorization framework
-- [ ] T006 [P] Setup API routing and middleware structure
-- [ ] T007 Create base models/entities that all stories depend on
-- [ ] T008 Configure error handling and logging infrastructure
-- [ ] T009 Setup environment configuration management
+- [ ] T004 Validate static JSON schema and seed sample data
+- [ ] T005 [P] Configure lint/format/type tooling with minimal dependencies
+- [ ] T006 [P] Scaffold accessibility helpers (focus trap, keyboard navigation, ARIA labels)
+- [ ] T007 Establish media lazy-loading and performance budget checks
+- [ ] T008 Define error and empty-state views for missing JSON data
+- [ ] T009 Prepare download helpers that preserve filenames for single and batched items
 
 **Checkpoint**: Foundation ready - user story implementation can now begin in parallel
 
@@ -79,12 +84,12 @@ Examples of foundational tasks (adjust based on your project):
 
 **Independent Test**: [How to verify this story works on its own]
 
-### Tests for User Story 1 (OPTIONAL - only if tests requested) ⚠️
+### Tests for User Story 1 (REQUIRED per constitution) ⚠️
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T010 [P] [US1] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T011 [P] [US1] Integration test for [user journey] in tests/integration/test_[name].py
+- [ ] T010 [US1] Unit tests for media gallery utilities and modal open/close/download handlers in tests/unit/
+- [ ] T011 [US1] Smoke/E2E for record open and single/multi-download flows in tests/e2e/record_download.[ext]
 
 ### Implementation for User Story 1
 
@@ -105,10 +110,10 @@ Examples of foundational tasks (adjust based on your project):
 
 **Independent Test**: [How to verify this story works on its own]
 
-### Tests for User Story 2 (OPTIONAL - only if tests requested) ⚠️
+### Tests for User Story 2 (add if story introduces new behavior) ⚠️
 
-- [ ] T018 [P] [US2] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T019 [P] [US2] Integration test for [user journey] in tests/integration/test_[name].py
+- [ ] T018 [P] [US2] Unit/integration tests for story-specific logic in tests/[type]/
+- [ ] T019 [P] [US2] Accessibility or performance regression tests for new UI states in tests/[type]/
 
 ### Implementation for User Story 2
 
@@ -127,10 +132,10 @@ Examples of foundational tasks (adjust based on your project):
 
 **Independent Test**: [How to verify this story works on its own]
 
-### Tests for User Story 3 (OPTIONAL - only if tests requested) ⚠️
+### Tests for User Story 3 (add if story introduces new behavior) ⚠️
 
-- [ ] T024 [P] [US3] Contract test for [endpoint] in tests/contract/test_[name].py
-- [ ] T025 [P] [US3] Integration test for [user journey] in tests/integration/test_[name].py
+- [ ] T024 [P] [US3] Unit/integration tests for story-specific logic in tests/[type]/
+- [ ] T025 [P] [US3] Accessibility or performance regression tests for new UI states in tests/[type]/
 
 ### Implementation for User Story 3
 
@@ -178,7 +183,8 @@ Examples of foundational tasks (adjust based on your project):
 
 ### Within Each User Story
 
-- Tests (if included) MUST be written and FAIL before implementation
+- Tests MUST be written and FAIL before implementation; required coverage includes gallery utilities,
+  modal open/close/download logic, and record open/download flows
 - Models before services
 - Services before endpoints
 - Core implementation before integration
@@ -198,13 +204,13 @@ Examples of foundational tasks (adjust based on your project):
 ## Parallel Example: User Story 1
 
 ```bash
-# Launch all tests for User Story 1 together (if tests requested):
-Task: "Contract test for [endpoint] in tests/contract/test_[name].py"
-Task: "Integration test for [user journey] in tests/integration/test_[name].py"
+# Launch all tests for User Story 1 together:
+Task: "Unit tests for media gallery utilities and modal handlers (T010)"
+Task: "Smoke/E2E for record open and downloads (T011)"
 
-# Launch all models for User Story 1 together:
-Task: "Create [Entity1] model in src/models/[entity1].py"
-Task: "Create [Entity2] model in src/models/[entity2].py"
+# Launch all components for User Story 1 together:
+Task: "Build gallery component in src/components/gallery.[ext]"
+Task: "Build modal component with focus trap in src/components/modal.[ext]"
 ```
 
 ---

@@ -3,7 +3,7 @@
 **Branch**: `[###-feature-name]` | **Date**: [DATE] | **Spec**: [link]
 **Input**: Feature specification from `/specs/[###-feature-name]/spec.md`
 
-**Note**: This template is filled in by the `/speckit.plan` command. See `.specify/templates/commands/plan.md` for the execution workflow.
+**Note**: This template is filled in by the `/speckit.plan` command. See `.specify/scripts/bash/setup-plan.sh` for the execution workflow.
 
 ## Summary
 
@@ -31,7 +31,16 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- Simplicity: keep the viewer temporary, avoid auth/complex state, and stay within static JSON scope.
+- Quality: include lint/format/type-check commands and keep dependency additions minimal and justified.
+- Testing: list unit coverage for media gallery utilities and modal open/close/download logic, plus a
+  smoke/E2E path for record open and single/multi-download flows.
+- UX & accessibility: plan consistent category/record layout (date/title, single vs multiple badges),
+  modal focus trap + keyboard navigation + ARIA labels, and mobile responsiveness.
+- Performance: define lazy-loading for media, lightweight assets, and protections against costly
+  nested renders.
+- Downloads: document how single and batched downloads preserve filenames.
+- Empty states: describe behavior for missing or empty JSON data.
 
 ## Project Structure
 
